@@ -698,6 +698,7 @@ enum RBACPermissions
     RBAC_PERM_COMMAND_DEBUG_LOADCELLS                        = 835,
 
     // custom permissions 1000+
+    RBAC_PERM_COMMAND_QUESTCOMPLETER                         = 1000,
     RBAC_PERM_MAX
 };
 
